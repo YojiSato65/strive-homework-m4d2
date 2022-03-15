@@ -1,7 +1,7 @@
 import { Card, Button } from 'react-bootstrap'
 
 const MyFooter = () => (
-    <Card className="text-center fixed-bottom">
+    <Card className="text-center relative-bottom">
         <Card.Header>Footer</Card.Header>
         <Card.Body>
           <Card.Title>Special title treatment</Card.Title>
